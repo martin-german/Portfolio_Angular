@@ -1,0 +1,21 @@
+[
+  {
+    "endDate": "ongoing...",
+    "initialDate": "September 2022",
+    "institute": "Professional Bachelor's Degree in Computer Science Operational Engineering with a specialization in Frontend Development",
+    "title": "University of Szeged "
+  },
+  {
+    "endDate": "June 2020",
+    "href": "./assets/documents/certification_BGE_encrypted.pdf",
+    "initialDate": "September 2017",
+    "institute": "Higher Education Vocational Training in Commerce and Marketing",
+    "title": "Budapest Business School "
+  },
+  {
+    "href": "./assets/documents/certification_language_encrypted.pdf",
+    "initialDate": "September 2020",
+    "institute": "B2 Complex State and Internationally Accredited Language Exam",
+    "title": "English Language Exam"
+  }
+]

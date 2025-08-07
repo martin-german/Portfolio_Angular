@@ -1,0 +1,43 @@
+<header
+  class="absolute top-0 z-10 w-full px-4 transition-shadow backdrop-saturate-150 backdrop-blur-sm bg-custom-900"
+  (clickOutside)="clickedOutside()"
+>
+  <nav>
+    <!-- ! Desktop Nav -->
+    <ul class="items-center hidden max-w-6xl gap-4 py-2 mx-auto md:flex">
+      <li *ngFor="let link of links" [ngClass]="link.styles">
+        <shared-nav-item
+          [href]="link.href"
+          [img]="link.img"
+          [text]="link.text"
+        />
+      </li>
+    </ul>
+
+    <!-- ! Responsive Nav -->
+    <ul class="relative flex items-center py-2 md:hidden">
+      <li>
+        <shared-nav-item href="#" [img]="false" text="About"/>
+      </li>
+
+      <li class="flex ml-auto select-none">
+        <button (click)="toggle()">
+          <img
+            width="32"
+            height="32"
+            class="transition-transform hover:scale-[1.05]"
+            src="./assets/icons/bars.svg"
+            alt="navbar button"
+          />
+        </button>
+      </li>
+
+      <li>
+        <shared-responsive-navbar
+          (isCollapsedChange)="handleCollapsedChange($event)"
+          [isCollapsed]="isResponsiveNav"
+        />
+      </li>
+    </ul>
+  </nav>
+</header>

@@ -1,0 +1,18 @@
+<nav
+  class="absolute w-full duration-[380ms] transition-all -translate-x-1/2 top-full left-1/2 {{
+    isCollapsed ? '-translate-y-0 opacity-100' : '-translate-y-96 opacity-0'
+  }}"
+>
+  <ul
+    class="flex flex-col font-semibold text-center border-2 rounded-md bg-custom-50 border-custom-400"
+  >
+    <li *ngFor="let item of navItems">
+      <shared-nav-item
+        (isCollapsed)="handleCollapse($event)"
+        [href]="item.href"
+        [tabindex]="isCollapsed"
+        [text]="item.text"
+      />
+    </li>
+  </ul>
+</nav>

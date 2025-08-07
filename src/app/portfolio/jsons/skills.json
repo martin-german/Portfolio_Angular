@@ -1,0 +1,78 @@
+[
+  {
+    "label": "HTML",
+    "img": "./assets/icons/html.svg",
+    "alt": "HTML logotype"
+  },
+  {
+    "label": "CSS",
+    "img": "./assets/icons/css.svg",
+    "alt": "CSS logotype"
+  },
+  {
+    "label": "FIGMA",
+    "img": "./assets/icons/figma.svg",
+    "alt": "FIGMA logotype"
+  },
+    {
+    "label": "Adobe Photoshop",
+    "img": "./assets/icons/AdobePhotoshop.svg",
+    "alt": "FIGMA logotype"
+  },
+  {
+    "label": "JavaScript",
+    "img": "./assets/icons/javascript.svg",
+    "alt": "JavaScript logotype"
+  },
+  {
+    "label": "React",
+    "img": "./assets/icons/react.svg",
+    "alt": "React logotype"
+  },
+  {
+    "label": "NodeJS",
+    "img": "./assets/icons/nodejs.svg",
+    "alt": "NodeJS logotype"
+  },
+  {
+    "label": "Angular",
+    "img": "./assets/icons/angular.svg",
+    "alt": "Angular logotype"
+  },
+  {
+    "label": "TailwindCSS",
+    "img": "./assets/icons/tailwindcss.svg",
+    "alt": "TailwindCSS logotype"
+  },
+  {
+    "label": "TypeScript",
+    "img": "./assets/icons/typescript.svg",
+    "alt": "TypeScript logotype"
+  },
+  
+  {
+    "label": "GitLab",
+    "img": "./assets/icons/gitlab.svg",
+    "alt": "Gitlab logotype"
+  },
+  {
+    "label": "GitHub",
+    "img": "./assets/icons/github.svg",
+    "alt": "GitHub logotype"
+  },
+  {
+    "label": "Firebase",
+    "img":"./assets/icons/firebase.svg",
+    "alt":"Firebase logotype"
+  },
+  {
+    "label": "ThreeJS",
+    "img": "./assets/icons/threejs.svg",
+    "alt": "ThreeJS logotype"
+  },
+  {
+    "label": "Java",
+    "img": "./assets/icons/java.svg",
+    "alt": "Java logotype"
+  }
+]

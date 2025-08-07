@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Szeged",
+    "endDate": "Ongoing...",
+    "initialDate": "2022",
+
+    "title": "University Group & Solo Projects"
+  },
+  {
+    "company": "BN Transz Kft.",
+    "endDate": "August 2022",
+    "initialDate": "January 2021",
+    "showTime": true,
+    "title": "Fleet Coordinator"
+  },
+  {
+    "company": "Bondár Attila Kft.",
+    "endDate": "August 2022",
+    "initialDate": "November 2020",
+    "showTime": true,
+    "title": "Logistics Manager"
+  }
+]

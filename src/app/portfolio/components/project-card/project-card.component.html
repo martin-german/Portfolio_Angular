@@ -1,0 +1,75 @@
+<article class="flex flex-col max-w-xs min-h-[487px] gap-3" data-aos="fade-up">
+  <a
+    [href]="project.url"
+    class="block rounded-3xl overflow-hidden h-fit [&>img]:hover:scale-110"
+    rel="noopener noreferrer"
+    target="_blank"
+    title="project demo"
+  >
+    <img
+      [alt]="project.alt"
+      [src]="project.src"
+      class="object-cover transition-transform h-60"
+      height="320"
+      loading="lazy"
+      width="320"
+    />
+  </a>
+
+  <h3 class="text-2xl font-bold text-custom-800">{{ project.title }}</h3>
+
+  <ul class="flex flex-wrap gap-2">
+    <li
+      *ngFor="let technology of project.technologies"
+      class="flex items-center gap-1 px-2 py-1 text-sm font-semibold text-black bg-blue-100 rounded-lg"
+    >
+      <img
+        alt="{{ technology }} icon"
+        height="24"
+        src="./assets/icons/{{ technology.toLowerCase() }}.svg"
+        width="24"
+      />
+      {{ technology }}
+    </li>
+  </ul>
+
+  <p class="text-balance line-clamp-5 md:line-clamp-4">
+    {{ project.description }}
+  </p>
+
+  <!-- ! Links -->
+  <div class="flex">
+    <a
+      [href]="project.url"
+      class="flex items-center gap-2 px-4 py-2 mr-3 text-white transition-colors bg-gray-700 rounded-lg hover:bg-gray-800"
+      rel="noopener noreferrer"
+      target="_blank"
+      title="project demo"
+    >
+      <img
+        alt="Eye icon"
+        height="24"
+        src="./assets/icons/eyes.svg"
+        width="24"
+      />
+      Demo
+    </a>
+    
+    <a
+      [href]="project.repo"
+      class="flex items-center gap-2 px-4 py-2 transition-colors border-2 border-transparent rounded-lg hover:border-gray-300"
+      rel="noopener noreferrer"
+      target="_blank"
+      title="Ir al repositorio"
+    >
+      <img
+        alt="Github icon"
+        class="invert"
+        height="24"
+        src="./assets/logotypes/github.svg"
+        width="24"
+      />
+      Github
+    </a>
+  </div>
+</article>

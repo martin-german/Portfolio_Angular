@@ -1,0 +1,19 @@
+[
+  {
+    "href": "#",
+    "text":"About"
+  },
+  {
+    "href": "#projects",
+    "styles": "ml-auto",
+    "text": "Projects"
+  },
+  {
+    "href": "#education",
+    "text": "Exp & Edu"
+  },
+  {
+    "href": "#skills",
+    "text": "Technologies"
+  }
+]
