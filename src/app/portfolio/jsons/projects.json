@@ -2,16 +2,16 @@
   {
     "alt": "ThreeJS project",
     "description": "The task was to create a scene from our favorite movie or TV series. The moment I chose is from the movie Interstellar (2014).",
-    "repo": "https://github.com/Ricorito/InterStellar-ThreeJS",
+    "repo": "https://github.com/martin-german/InterStellar-ThreeJS",
     "src": "./assets/images/InterStellar.webp",
     "technologies": ["JavaScript", "HTML", "CSS"],
     "title": "Three JS",
-    "url": "https://ricorito.github.io/InterStellar-ThreeJS/"
+    "url": "https://martin-german.github.io/InterStellar-ThreeJS/"
   },
   {
     "alt": "Thesis Project",
     "description": "This mental health app blends gamified interactions with personal journaling to support emotional well-being. Built with modern web technologies, it encourages self-reflection and resilience in an engaging way.",
-    "repo": "https://github.com/Ricorito/Thesis_Project",
+    "repo": "https://github.com/martin-german/Thesis_Project",
     "src": "./assets/images/thesis.webp",
     "technologies": ["JavaScript", "React", "TailwindCSS", "NodeJS", "MySQL"],
     "title": "Thesis Project",
@@ -21,25 +21,16 @@
   {
     "alt": "WeatherForecastAPP",
     "description": "A modern weather forecast app built with React (TSX), Tailwind CSS, and OpenWeather API.",
-    "repo": "https://github.com/Ricorito/ReactWeatherApp_TypeScript",
+    "repo": "https://github.com/martin-german/ReactWeatherApp_TypeScript",
     "src": "./assets/images/WeatherForecastAPP.webp",
     "technologies": ["React", "TypeScript", "TailwindCSS"],
     "title": "WeatherForecastAPP",
     "url": "https://reactweatherapp-typescript.onrender.com/"
   },
   {
-    "alt": "React JS project",
-    "description": "The server may take around 5 minutes to spin up after opening the link, so please be patient. This is a Monopoly game clone created as part of a university group project for the Agile Software Development course. I participated as part of the frontend team.",
-    "repo": "https://git-okt.sed.inf.szte.hu/ib670g_25_agilisszoftverfejlesztes/ib670g-2_evosoft/monopoly",
-    "src": "./assets/images/monopola.webp",
-    "technologies": ["JavaScript", "React", "TailwindCSS"],
-    "title": "Monopoly Clone - University Group Project",
-    "url": "https://shimmering-babka-e1b1e0.netlify.app/"
-  },
-  {
     "alt": "Thesis Project DEMO",
     "description": "No backend and database. Only frontend",
-    "repo": "https://github.com/Ricorito/Thesis_Project",
+    "repo": "https://github.com/martin-german/Thesis_Project",
     "src": "./assets/images/thesis.webp",
     "technologies": ["JavaScript", "React", "TailwindCSS", "NodeJS", "MySQL"],
     "title": "DEMO",

@@ -24,7 +24,7 @@ export class ButtonsComponent {
     },
     {
       alt: 'logo GitHub',
-      href: 'https://github.com/Ricorito',
+      href: 'https://github.com/martin-german',
       img: './assets/logotypes/github.svg',
       styles: 'bg-gray-700 [&>img]:invert hover:bg-gray-800',
       text: 'GitHub',
