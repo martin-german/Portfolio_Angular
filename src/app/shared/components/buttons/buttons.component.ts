@@ -10,7 +10,7 @@ export class ButtonsComponent {
   public links: Link[] = [
     {
       alt: 'logo CV',
-      href: 'https://drive.google.com/file/d/1NFJjKIjp9lct38BGfar5J1R466Uh_cio/view?usp=sharing',
+      href: 'https://drive.google.com/file/d/1CnvJqrRIjyS_v_GuUiLpr1heZgtPuoaQ/view?usp=sharing',
       img: './assets/logotypes/link.svg',
       styles: 'bg-custom-200 hover:bg-custom-700',
       text: 'CV',
