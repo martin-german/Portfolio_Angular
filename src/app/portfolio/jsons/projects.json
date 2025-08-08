@@ -1,12 +1,12 @@
 [
   {
-    "alt": "ThreeJS project",
-    "description": "The task was to create a scene from our favorite movie or TV series. The moment I chose is from the movie Interstellar (2014).",
-    "repo": "https://github.com/martin-german/InterStellar-ThreeJS",
-    "src": "./assets/images/InterStellar.webp",
-    "technologies": ["JavaScript", "HTML", "CSS"],
-    "title": "Three JS",
-    "url": "https://martin-german.github.io/InterStellar-ThreeJS/"
+    "alt": "WeatherForecastAPP",
+    "description": "A modern weather forecast app built with React (TSX), Tailwind CSS, and OpenWeather API.",
+    "repo": "https://github.com/martin-german/ReactWeatherApp_TypeScript",
+    "src": "./assets/images/WeatherForecastAPP.webp",
+    "technologies": ["React", "TypeScript", "TailwindCSS"],
+    "title": "WeatherForecastAPP",
+    "url": "https://reactweatherapp-typescript.onrender.com/"
   },
   {
     "alt": "Thesis Project",
@@ -17,22 +17,30 @@
     "title": "Thesis Project",
     "url": "https://www.youtube.com/watch?v=2HhrEH49_Cc"
   },
-
   {
-    "alt": "WeatherForecastAPP",
-    "description": "A modern weather forecast app built with React (TSX), Tailwind CSS, and OpenWeather API.",
-    "repo": "https://github.com/martin-german/ReactWeatherApp_TypeScript",
-    "src": "./assets/images/WeatherForecastAPP.webp",
-    "technologies": ["React", "TypeScript", "TailwindCSS"],
-    "title": "WeatherForecastAPP",
-    "url": "https://reactweatherapp-typescript.onrender.com/"
+    "alt": "BudgetBuddy",
+    "description": "Simple monthly expense calculator built with NextJS and TypeScript. Hosted on Render, so the server may take a moment to wake up when inactive.",
+    "repo": "https://github.com/martin-german/BudgetBuddy",
+    "src": "./assets/images/budgetbuddy.webp",
+    "technologies": ["NextJS", "TypeScript", "TailwindCSS"],
+    "title": "Thesis Project",
+    "url": "https://budgetbuddy-io0p.onrender.com/"
+  },
+  {
+    "alt": "ThreeJS project",
+    "description": "The task was to create a scene from our favorite movie or TV series. The moment I chose is from the movie Interstellar (2014).",
+    "repo": "https://github.com/martin-german/InterStellar-ThreeJS",
+    "src": "./assets/images/InterStellar.webp",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "title": "Three JS",
+    "url": "https://martin-german.github.io/InterStellar-ThreeJS/"
   },
   {
     "alt": "Thesis Project DEMO",
     "description": "No backend and database. Only frontend",
     "repo": "https://github.com/martin-german/Thesis_Project",
     "src": "./assets/images/thesis.webp",
-    "technologies": ["JavaScript", "React", "TailwindCSS", "NodeJS", "MySQL"],
+    "technologies": ["JavaScript", "React", "TailwindCSS"],
     "title": "DEMO",
     "url": "https://thesisprojectdemo.onrender.com/"
   }

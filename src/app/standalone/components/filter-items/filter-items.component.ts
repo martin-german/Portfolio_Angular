@@ -1,7 +1,7 @@
 import { CommonModule } from '@angular/common';
 import { Component, Input, Output, EventEmitter, OnInit } from '@angular/core';
 
-import { Projects } from 'src/app/portfolio/types/portfolio-types';
+import { Projects } from '../../../portfolio/types/portfolio-types';
 import { TechnologyWithCount } from '../../types/standalone-types';
 
 @Component({
