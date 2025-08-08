@@ -23,7 +23,7 @@
     "repo": "https://github.com/martin-german/BudgetBuddy",
     "src": "./assets/images/budgetbuddy.webp",
     "technologies": ["NextJS", "TypeScript", "TailwindCSS"],
-    "title": "Thesis Project",
+    "title": "BudgetBuddy",
     "url": "https://budgetbuddy-io0p.onrender.com/"
   },
   {
