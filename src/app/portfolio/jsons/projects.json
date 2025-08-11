@@ -24,7 +24,7 @@
     "src": "./assets/images/budgetbuddy.webp",
     "technologies": ["NextJS", "TypeScript", "TailwindCSS"],
     "title": "BudgetBuddy",
-    "url": "https://budgetbuddy-io0p.onrender.com/"
+    "url": "https://budget-buddy-rho-tan.vercel.app/"
   },
   {
     "alt": "ThreeJS project",
